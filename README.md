@@ -15,26 +15,37 @@ Furthermore, I possess a deep understanding of cloud technologies, particularly 
 
 # 🧰 LANGUAGES AND TOOLS
 
-<img align="left" alt="HTML" width="100px" style="padding-right:10px;" src="https://github.com/key-joshua/key-joshua/assets/38179232/fec61a0a-b27a-4d9c-9959-025f3ba0b834" />
-<img align="left" alt="CSS" width="100px" style="padding-right:10px;" src="https://github.com/key-joshua/key-joshua/assets/38179232/312e1227-6982-43c8-a4ad-a3e8a0a0505d" />
-<img align="left" alt="JAVASCRIPT" width="100px" style="padding-right:10px;" src="https://github.com/key-joshua/key-joshua/assets/38179232/c1e35913-d1b8-42c2-ba89-a5c7cd0a945a" />
-<img align="left" alt="TYPESCRIPT" width="100px" style="padding-right:10px;" src="https://github.com/key-joshua/key-joshua/assets/38179232/90908575-e287-42bf-8b9d-02083fb0453d" />
-<img align="left" alt="TAILWIND" width="100px" style="padding-right:10px;" src="https://github.com/key-joshua/key-joshua/assets/38179232/dc7174d8-8c58-442e-ab80-e581735b586f" />
-<img align="left" alt="NEXT" width="100px" style="padding-right:10px;" src="https://github.com/key-joshua/key-joshua/assets/38179232/88fad47a-56e0-4524-ac3c-6ab68c266f6e" />
-<img align="left" alt="REACT" width="100px" style="padding-right:10px;" src="https://github.com/key-joshua/key-joshua/assets/38179232/9d71c672-49fa-46ea-84a7-87eace01eab1" />
-<img align="left" alt="NODE" width="100px" style="padding-right:10px;" src="https://github.com/key-joshua/key-joshua/assets/38179232/80772346-e78b-4c98-b62d-85d979612f37" />
-<img align="left" alt="GIT" width="100px" style="padding-right:10px;" src="https://github.com/key-joshua/key-joshua/assets/38179232/651f0213-a87c-4da7-b929-93627fd80a50" />
-<img align="left" alt="NODE" width="100px" style="padding-right:10px;" src="https://github.com/key-joshua/key-joshua/assets/38179232/aa1576e8-859e-4470-994c-04cbbe8d2b03" />
+<img align="left" alt="HTML" width="80px" style="padding-right:10px;" src="https://github.com/key-joshua/key-joshua/assets/38179232/af18923c-d40a-4814-bfe8-fa122bc5d247" />
+<img align="left" alt="CSS" width="80px" style="padding-right:10px;" src="https://github.com/key-joshua/key-joshua/assets/38179232/24691170-287e-4ba0-9fad-a9bd4b23c3ee" />
+<img align="left" alt="JAVASCRIPT" width="80px" style="padding-right:10px;" src="https://github.com/key-joshua/key-joshua/assets/38179232/577df20e-acea-4541-862b-000aae8ba0e3" />
+<img align="left" alt="TYPESCRIPT" width="80px" style="padding-right:10px;" src="https://github.com/key-joshua/key-joshua/assets/38179232/875df88b-f406-4366-9afb-4735f0694ef7" />
+<img align="left" alt="TAILWIND" width="100px" style="padding-right:10px;" src="https://github.com/key-joshua/key-joshua/assets/38179232/fecfff89-4f1c-42dd-b751-e7eafdbdd83a" />
+<img align="left" alt="REACT" width="80px" style="padding-right:10px;" src="https://github.com/key-joshua/key-joshua/assets/38179232/96560434-1be8-4f6e-b6cb-3020aeda5b0f" />
+<img align="left" alt="NEXT" width="80px" style="padding-right:10px;" src="https://github.com/key-joshua/key-joshua/assets/38179232/db06a6e3-7860-4b94-a750-8c02dd3c9b0b" />
+<img align="left" alt="NODE" width="100px" style="padding-right:10px;" src="https://github.com/key-joshua/key-joshua/assets/38179232/22001ba4-3230-47d5-b478-dcf46e950e0d" />
+<img align="left" alt="GIT" width="80px" style="padding-right:10px;" src="https://github.com/key-joshua/key-joshua/assets/38179232/98c34fba-8675-4491-b4ed-c7ddefafee3b" />
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
-<img align="left" alt="POSTGRESQL" width="100px" style="padding-right:10px;" src="https://github.com/key-joshua/key-joshua/assets/38179232/aa2b78ff-e92b-4d0b-aa6a-be59a46833d8" />
-<img align="left" alt="MYSQL" width="100px" style="padding-right:10px;" src="https://github.com/key-joshua/key-joshua/assets/38179232/2eecea7b-24ec-4fe9-a5cb-72ffafcd8892" />
-<img align="left" alt="MONGO" width="100px" style="padding-right:10px;" src="https://github.com/key-joshua/key-joshua/assets/38179232/9e86b431-a558-4dc2-a6cd-197f25eb512f" />
+<img align="left" alt="GITHUB" width="80px" style="padding-right:10px;" src="https://github.com/key-joshua/key-joshua/assets/38179232/09218d40-7525-425c-844f-c5fce3e9b6a3" />
+<img align="left" alt="POSTGRESQL" width="80px" style="padding-right:10px;" src="https://github.com/key-joshua/key-joshua/assets/38179232/77a70995-010e-49cd-b325-868d7ef5584a" />
+<img align="left" alt="MYSQL" width="80px" style="padding-right:10px;" src="https://github.com/key-joshua/key-joshua/assets/38179232/0913cb54-7f03-43de-965e-c047fb90cd51" />
+<img align="left" alt="MONGO" width="90px" style="padding-right:10px;" src="https://github.com/key-joshua/key-joshua/assets/38179232/02a8c634-7f64-4db2-8215-215f0da9d4d6" />
+<img align="left" alt="MOCHA" width="80px" style="padding-right:10px;" src="https://github.com/key-joshua/key-joshua/assets/38179232/f1bc4592-8577-481d-b510-5165b835022e" />
+<img align="left" alt="LINUX" width="80px" style="padding-right:10px;" src="https://github.com/key-joshua/key-joshua/assets/38179232/b2b1683a-05c7-4197-b9ea-67a86f8e92de" />
+<img align="left" alt="AWS" width="100px" style="padding-right:10px;" src="https://github.com/key-joshua/key-joshua/assets/38179232/4676297c-0441-4f40-8c12-cf794122e272" />
+<img align="left" alt="FIREBASE" width="75px" style="padding-right:10px;" src="https://github.com/key-joshua/key-joshua/assets/38179232/56c1158e-566b-457a-a7e7-d22f38c556f7" />
+<img align="left" alt="VS CODE" width="80px" style="padding-right:10px;" src="https://github.com/key-joshua/key-joshua/assets/38179232/7eebe8da-2c20-47cf-8a82-030f70e3bbe9" />
 
-
-
-
-
-
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 
