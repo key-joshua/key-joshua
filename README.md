@@ -1,4 +1,4 @@
-# :computer: Josue BYIRINGIRO [**`A FULL STACK WEB DEVELOPER (PERN/MERN)`**]
+# :computer: Josue BYIRINGIRO [**`A FULL STACK WEB DEVELOPER`**]
 
 Full Stack Developer with expertise in **`PERN/MERN`** development, I bring vast experience in crafting dynamic web applications using a diverse tech stack. My proficient in frontend design and front-end building, I have a strong command of `**FIGMA DESIGN`** and `**PHOTOSHOP`** as part of the design, including `**HTML`**, `**CSS`**, `**JAVASCRIPT`**, `**REACTJS/REDUX`**, `**NEXTJS/TYPESCRIPT`**, `**NODEJS/TYPESCRIPT`**, and various databases like  `**POSTGRESQL`**, `**MYSQL`**, `**MOMGO DB`**, `**AWS`** and `**FIREBASE SERVICES`**, `**MICROSERVICES`**, `**DEVOPS ( Cloud Computing)`**, etc...
 
