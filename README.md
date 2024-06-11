@@ -16,8 +16,6 @@ Furthermore, I possess a deep understanding of cloud technologies, particularly 
 # 🧰 LANGUAGES AND TOOLS
 <br />
 <br />
-<br />
-<br />
 <img align="center" alt="FIGMA DESIGN" width="60px" src="https://github.com/key-joshua/key-joshua/assets/38179232/50e1b6c7-7424-4b33-a516-70789c443446" />
 <img align="center" alt="PHOTOSHOP" width="80px" src="https://github.com/key-joshua/key-joshua/assets/38179232/27579f93-efe8-43a4-b6f5-f5f61a60a0d5" />
 <img align="center" alt="HTML" width="80px" src="https://github.com/key-joshua/key-joshua/assets/38179232/af18923c-d40a-4814-bfe8-fa122bc5d247" />
