@@ -45,11 +45,4 @@ Furthermore, I possess a deep understanding of cloud technologies, particularly 
 <br />
 <br />
 
-
-
-
-
-
-
-
-
+![Josue's GitHub stats](https://github-readme-stats.vercel.app/api?username=key-joshua&show_icons=true&theme=dark)
