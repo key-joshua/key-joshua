@@ -23,8 +23,6 @@ Furthermore, I possess a deep understanding of cloud technologies, particularly 
 <img align="center" alt="JAVASCRIPT" style="margin-right: 30px;" width="60px" src="https://github.com/key-joshua/key-joshua/assets/38179232/577df20e-acea-4541-862b-000aae8ba0e3" />
 <br />
 <br />
-<br />
-<br />
 <img align="center" alt="TAILWIND" style="margin-right: 30px;" width="80px" src="https://github.com/key-joshua/key-joshua/assets/38179232/fecfff89-4f1c-42dd-b751-e7eafdbdd83a" />
 <img align="center" alt="REACT" style="margin-right: 30px;" width="60px" src="https://github.com/key-joshua/key-joshua/assets/38179232/96560434-1be8-4f6e-b6cb-3020aeda5b0f" />
 <img align="center" alt="NEXT" style="margin-right: 30px;" width="60px" src="https://github.com/key-joshua/key-joshua/assets/38179232/db06a6e3-7860-4b94-a750-8c02dd3c9b0b" />
@@ -33,8 +31,6 @@ Furthermore, I possess a deep understanding of cloud technologies, particularly 
 <img align="center" alt="POSTGRESQL" style="margin-right: 30px;" width="60px" src="https://github.com/key-joshua/key-joshua/assets/38179232/77a70995-010e-49cd-b325-868d7ef5584a" />
 <img align="center" alt="MYSQL" style="margin-right: 30px;" width="60px" src="https://github.com/key-joshua/key-joshua/assets/38179232/0913cb54-7f03-43de-965e-c047fb90cd51" />
 <img align="center" alt="MONGO" style="margin-right: 30px;" width="90px" src="https://github.com/key-joshua/key-joshua/assets/38179232/02a8c634-7f64-4db2-8215-215f0da9d4d6" />
-<br />
-<br />
 <br />
 <br />
 <img align="center" alt="MOCHA" style="margin-right: 30px;" width="60px" src="https://github.com/key-joshua/key-joshua/assets/38179232/f1bc4592-8577-481d-b510-5165b835022e" />
@@ -48,14 +44,3 @@ Furthermore, I possess a deep understanding of cloud technologies, particularly 
 <img align="center" alt="POSTMAN" style="margin-right: 30px;" width="60px" src="https://github.com/key-joshua/key-joshua/assets/38179232/d34b1446-af0c-4640-b390-738b55e07b44" />
 <br />
 <br />
-<br />
-<br />
-
-
-
-
-
-
-
-
-
